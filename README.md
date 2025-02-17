@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Arvin Xu, a design engineer.
+I'm **Ritu**, a **Web Developer**.
 
 ### ✍️ Languages
 
@@ -24,4 +24,4 @@ I'm Arvin Xu, a design engineer.
 
 ### ❤️ GitHub Stats
 
-![Arvin XU's github stats](https://github-readme-stats.vercel.app/api?username=arvinxx&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritu9755&show_icons=true&theme=radical)
