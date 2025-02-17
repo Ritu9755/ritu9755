@@ -30,4 +30,4 @@ I'm **Ritu**, a Web **Developer**.
 | **Other** | ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) ![Gitmoji](https://img.shields.io/badge/Gitmoji-yellow?style=flat-square) |
 
 ## ❤️ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arvinxx&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritu9755&show_icons=true&theme=radical)
